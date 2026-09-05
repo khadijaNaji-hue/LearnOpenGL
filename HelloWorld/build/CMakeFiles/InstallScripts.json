@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"H:/LearnOpenGL/LearnOpenGL/HelloWorld/build/cmake_install.cmake",
+		"H:/LearnOpenGL/LearnOpenGL/HelloWorld/build/glfw/cmake_install.cmake",
+		"H:/LearnOpenGL/LearnOpenGL/HelloWorld/build/glfw/src/cmake_install.cmake",
+		"H:/LearnOpenGL/LearnOpenGL/HelloWorld/build/glfw/docs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
