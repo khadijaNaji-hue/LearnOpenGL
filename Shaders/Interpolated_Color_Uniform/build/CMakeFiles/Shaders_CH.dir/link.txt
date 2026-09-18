@@ -1,3 +1,0 @@
-C:\msys64\ucrt64\bin\cmake.exe -E rm -f CMakeFiles\Shaders_CH.dir/objects.a
-C:\msys64\ucrt64\bin\ar.exe qc CMakeFiles\Shaders_CH.dir/objects.a @CMakeFiles\Shaders_CH.dir\objects1.rsp
-C:\msys64\ucrt64\bin\c++.exe -Wl,--whole-archive CMakeFiles\Shaders_CH.dir/objects.a -Wl,--no-whole-archive -o Shaders_CH.exe -Wl,--out-implib,libShaders_CH.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Shaders_CH.dir\linkLibs.rsp
