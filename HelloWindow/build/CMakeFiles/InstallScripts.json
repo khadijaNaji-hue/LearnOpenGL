@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"D:/Projects_Files/My-Github/LearnOpenGL/HelloWindow/build/cmake_install.cmake",
+		"D:/Projects_Files/My-Github/LearnOpenGL/HelloWindow/build/glfw/cmake_install.cmake",
+		"D:/Projects_Files/My-Github/LearnOpenGL/HelloWindow/build/glfw/src/cmake_install.cmake",
+		"D:/Projects_Files/My-Github/LearnOpenGL/HelloWindow/build/glfw/docs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
